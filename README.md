@@ -2,10 +2,10 @@
 
 文件夹摆放如下：
 
-│  
+│ 
 ├─code
 │      model_lgb.ipynb
-│      
+│
 ├─data
 │      sms_test_a.txt
 │      sms_test_b.txt
@@ -17,7 +17,7 @@
 │      wa_test_a.txt
 │      wa_test_b.txt
 │      wa_train.txt
-│      
+│
 └─sub
 
 数据集由于比较大，这里暂不上传。
